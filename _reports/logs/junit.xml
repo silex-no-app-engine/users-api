@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Entity" tests="5" assertions="7" failures="0" errors="0" time="0.007562">
+    <testsuite name="CodeExperts\Application\Entity\EntityTest" file="/Users/nandokstronet/projects/users-api/tests/Entity/EntityTest.php" tests="5" assertions="7" failures="0" errors="0" time="0.007562">
+      <testcase name="testInsertOfNewRegister" class="CodeExperts\Application\Entity\EntityTest" file="/Users/nandokstronet/projects/users-api/tests/Entity/EntityTest.php" line="37" assertions="1" time="0.004944"/>
+      <testcase name="testUpdateOfRegister" class="CodeExperts\Application\Entity\EntityTest" file="/Users/nandokstronet/projects/users-api/tests/Entity/EntityTest.php" line="52" assertions="1" time="0.000708"/>
+      <testcase name="testSelectAllRegisters" class="CodeExperts\Application\Entity\EntityTest" file="/Users/nandokstronet/projects/users-api/tests/Entity/EntityTest.php" line="77" assertions="1" time="0.000670"/>
+      <testcase name="testGetpecificRegister" class="CodeExperts\Application\Entity\EntityTest" file="/Users/nandokstronet/projects/users-api/tests/Entity/EntityTest.php" line="104" assertions="2" time="0.000637"/>
+      <testcase name="testDeleteRegister" class="CodeExperts\Application\Entity\EntityTest" file="/Users/nandokstronet/projects/users-api/tests/Entity/EntityTest.php" line="122" assertions="2" time="0.000603"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

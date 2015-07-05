@@ -1,0 +1,7 @@
+CodeExperts\Application\Entity\Entity
+ [x] Insert of new register
+ [x] Update of register
+ [x] Select all registers
+ [x] Getpecific register
+ [x] Delete register
+
